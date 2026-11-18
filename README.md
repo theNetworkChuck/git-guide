@@ -87,7 +87,7 @@ Short on time? The [cheat sheet](guide/cheatsheet.md) has every command on one p
 
 The video was sponsored by **CodeRabbit**, an AI code reviewer that reads every file in a pull request, including the ones your AI agent wrote, and tells you what it changes and what it breaks before you click merge. You'll meet pull requests in [chapter 6](guide/06-pull-requests.md).
 
-**Start a free 14-day CodeRabbit trial** (no credit card) with the link in the video description.
+**Start a free 14-day CodeRabbit trial** (no credit card): [ntck.co/coderabbit](https://ntck.co/coderabbit)
 
 ## License
 

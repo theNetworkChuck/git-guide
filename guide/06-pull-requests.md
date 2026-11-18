@@ -53,7 +53,7 @@ The details say what it changes, and usually a line like **Closes #1**. That lin
 On the website, open your repo and click **Pull requests**. There's a big green **Merge pull request** button. Don't click it yet.
 
 > [!TIP]
-> This is the moment that matters with AI agents: you're the one who clicks merge. A one-line change is easy to read. A 4,000-line change across 43 files is not. That's the problem the video's sponsor, CodeRabbit, solves: it reviews every file in the PR and tells you what it changes and what it might break.
+> This is the moment that matters with AI agents: you're the one who clicks merge. A one-line change is easy to read. A 4,000-line change across 43 files is not. That's the problem the video's sponsor, [CodeRabbit](https://ntck.co/coderabbit), solves: it reviews every file in the PR and tells you what it changes and what it might break.
 
 ## Step 3: Test the PR on your computer with `gh pr checkout`
 
